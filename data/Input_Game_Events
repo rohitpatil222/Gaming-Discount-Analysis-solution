@@ -1,1 +1,271 @@
 
+{
+"events": [
+    {
+	  "eventId" : 145678,
+      "studentId": "AA000100",
+	  "gameCode": "e2t1",
+	  "playsetType": "H",
+      "startTime": "2019-04-01T18:29:02.000Z",
+      "endTime": "2019-04-01T18:36:50.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T18:30:04.000Z",
+          "roundEndTime": "2019-04-01T18:34:10.000Z",
+          "targetText": ["L"],
+          "responseText": ["M","T","N","M"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T18:33:45.000Z",
+          "roundEndTime": "2019-04-01T18:35:50.000Z",
+          "targetText": ["L"],
+		  "responseText": ["P","X","L"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145679,
+      "studentId": "SS000200",
+	  "gameCode": "e1t2",
+	  "playsetType": "H",
+      "startTime": "2019-04-01T21:25:02.000Z",
+      "endTime": "2019-04-01T21:31:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T21:25:04.000Z",
+          "roundEndTime": "2019-04-01T21:26:10.000Z",
+          "targetText": ["S"],
+          "responseText": ["M","W","X"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T21:27:10.000Z",
+          "roundEndTime": "2019-04-01T21:28:10.000Z",
+          "targetText": ["S"],
+		  "responseText": ["P","T","Z"] 
+        },
+		{
+          "round": 3,
+          "roundStartTime": "2019-04-01T21:28:30.000Z",
+          "roundEndTime": "2019-04-01T21:30:10.000Z",
+          "targetText": ["S"],
+		  "responseText": ["S"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145680,
+      "studentId":"AS000200",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "H",
+      "startTime": "2019-04-01T10:11:02.000Z",
+      "endTime": "2019-04-01T10:15:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T10:11:55.000Z",
+          "roundEndTime": "2019-04-01T10:13:10.000Z",
+          "targetText": ["M"],
+          "responseText": ["W","M"]
+        }
+      ]
+    },
+	
+	
+	{
+	  "eventId":145681,
+      "studentId": "AR000345",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "S",
+      "startTime": "2019-04-01T11:19:02.000Z",
+      "endTime": "2019-04-01T11:24:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T11:19:15.000Z",
+          "roundEndTime": "2019-04-01T11:21:10.000Z",
+          "targetText": ["T"],
+          "responseText": ["V","S","I"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T11:22:04.000Z",
+          "roundEndTime": "2019-04-01T11:24:10.000Z",
+          "targetText": ["T"],
+		  "responseText": ["P","T"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145682,
+      "studentId": "MS000100",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "S",
+      "startTime": "2019-04-01T14:54:02.000Z",
+      "endTime": "2019-04-01T15:05:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T14:54:35.000Z",
+          "roundEndTime": "2019-04-01T14:56:02.000Z",
+          "targetText": ["A"],
+          "responseText": ["V"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T14:56:21.000Z",
+          "roundEndTime": "2019-04-01T14:59:05.000Z",
+          "targetText": ["A"],
+		  "responseText": ["A"] 
+        },
+		{
+          "round": 3,
+          "roundStartTime": "2019-04-01T15:00:32.000Z",
+          "roundEndTime": "2019-04-01T15:04:22.000Z",
+          "targetText": ["A"],
+		  "responseText": ["A"] 
+        }
+      ]
+    },
+	
+   {
+      "eventId":145683,
+      "studentId": "AS000200",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "S",
+      "startTime": "2019-04-01T11:29:02.000Z",
+      "endTime": "2019-04-01T11:35:50.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T11:29:34.000Z",
+          "roundEndTime": "2019-04-01T11:33:10.000Z",
+          "targetText": ["L"],
+          "responseText": ["M","T","N","L"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T11:33:45.000Z",
+          "roundEndTime": "2019-04-01T11:34:50.000Z",
+          "targetText": ["L"],
+		  "responseText": ["T","L"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145684,
+      "studentId": "AA000100",
+	  "gameCode": "e1t2",	  
+	  "playsetType": "S",
+      "startTime": "2019-04-01T09:25:02.000Z",
+      "endTime": "2019-04-01T09:33:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T09:25:34.000Z",
+          "roundEndTime": "2019-04-01T09:28:10.000Z",
+          "targetText": ["S"],
+          "responseText": ["M","A","S"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T09:29:10.000Z",
+          "roundEndTime": "2019-04-01T09:30:19.000Z",
+          "targetText": ["S"],
+		  "responseText": ["Z","S"] 
+        },
+		{
+          "round": 3,
+          "roundStartTime": "2019-04-01T09:30:39.000Z",
+          "roundEndTime": "2019-04-01T09:32:10.000Z",
+          "targetText": ["S"],
+		  "responseText": ["S"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145685,
+      "studentId": "SS000200",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "S",
+      "startTime": "2019-04-01T10:13:02.000Z",
+      "endTime": "2019-04-01T10:18:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T10:13:55.000Z",
+          "roundEndTime": "2019-04-01T10:17:10.000Z",
+          "targetText": ["P"],
+          "responseText": ["P"]
+        }
+      ]
+    },
+	
+	
+	{
+	  "eventId":145686,
+      "studentId": "MS000100",
+	  "gameCode": "e2t1",	  
+	  "playsetType": "H",
+      "startTime": "2019-04-01T17:19:02.000Z",
+      "endTime": "2019-04-01T17:24:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T17:19:15.000Z",
+          "roundEndTime": "2019-04-01T17:21:10.000Z",
+          "targetText": ["A"],
+          "responseText": ["V","M"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T17:22:04.000Z",
+          "roundEndTime": "2019-04-01T17:24:10.000Z",
+          "targetText": ["A"],
+		  "responseText": ["A"] 
+        }
+      ]
+    },
+	
+	{
+	  "eventId":145687,
+      "studentId": "AR000345",
+	  "gameCode": "e1t2",	  
+	  "playsetType": "H",
+      "startTime": "2019-04-01T16:34:02.000Z",
+      "endTime": "2019-04-01T16:45:20.000Z",
+      "data": [
+        {
+          "round": 1,
+          "roundStartTime": "2019-04-01T16:34:35.000Z",
+          "roundEndTime": "2019-04-01T16:36:02.000Z",
+          "targetText": ["A"],
+          "responseText": ["V","M","S"]
+        },
+        {
+          "round": 2,
+          "roundStartTime": "2019-04-01T16:37:21.000Z",
+          "roundEndTime": "2019-04-01T16:38:05.000Z",
+          "targetText": ["A"],
+		  "responseText": ["M","T","P","P"] 
+        },
+		{
+          "round": 3,
+          "roundStartTime": "2019-04-01T16:40:32.000Z",
+          "roundEndTime": "2019-04-01T16:42:22.000Z",
+          "targetText": ["A"],
+		  "responseText": ["M","A"] 
+        }
+      ]
+    }
+	
+  ]
+}
